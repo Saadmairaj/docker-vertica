@@ -1,20 +1,19 @@
 # docker images for Micro Focus Vertica
 
+Fork of [jbfavre/docker-vertica](https://github.com/jbfavre/docker-vertica)
+
 Docker images collection for Vertica database
 
 Vertica is a column oriented database from Micro Focus.  
 It's available with both a free community licence, and an enterprise one.
 
-## News
-
-* __2019, Apr. 8th__:  
-  Support of Vertica 8.x has been removed because I'm lacking time to manage it.
-* __2018, Jan. 31th__:  
-  Support of Vertica 7.x has been removed since this version has been EOL for quite a time.
-
 ## Flavours
 
 Following Vertica/Operating systems versions are provided:
+
+- Vertica 10.x
+  * on CentOS 7.9.x
+
 - Vertica 9.x (currently 9.2)
   * on Ubuntu LTS 16.04
   * on Debian 8.0 Jessie
