@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46227224/119309331-c8c8a200-bc8b-11eb-9fc6-5f674b3abe01.png" width=400/>
+  <a href="https://www.vertica.com/"><img src="https://user-images.githubusercontent.com/46227224/119309331-c8c8a200-bc8b-11eb-9fc6-5f674b3abe01.png" width=400/></a>
 </p>
 
-<p align="center">Verica Community Edition Docker Image</p>
+<p align="center"><a href="https://hub.docker.com/r/saadmairaj/vertica">Verica Community Edition Docker Image</a></p>
 
 Fork of [jbfavre/docker-vertica](https://github.com/jbfavre/docker-vertica)
 
