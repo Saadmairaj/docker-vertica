@@ -1,25 +1,12 @@
-# Verica Community Edition Docker Image
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46227224/119309331-c8c8a200-bc8b-11eb-9fc6-5f674b3abe01.png" width=400/>
+</p>
+
+<p align="center">Verica Community Edition Docker Image</p>
 
 Fork of [jbfavre/docker-vertica](https://github.com/jbfavre/docker-vertica)
 
-Docker images collection for Vertica database
-
-Vertica is a column oriented database from Micro Focus.  
-It's available with both a free community licence, and an enterprise one.
-
-## Flavours
-
-Following Vertica/Operating systems versions are provided:
-
-- Vertica 10.x
-  * on CentOS 7.9.x
-
-- Vertica 9.x (currently 9.2)
-  * on Ubuntu LTS 16.04
-  * on Debian 8.0 Jessie
-  * on CentOS 7 (Thanks to @pcerny for the work)
-
-__latest__ tag follows the Debian flavour of the image.
+Docker images collection for Vertica database. Vertica is a column oriented database from Micro Focus. It's available with both a free community licence, and an enterprise one.
 
 ## Usage
 
